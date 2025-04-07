@@ -53,7 +53,7 @@ Git:
 
 -  After: https://github.com/gorhill/uBlock/tree/149b5cf59cc760fa98c9753f4b4ec12d4b884d9a
 - Commit: https://github.com/gorhill/uBlock/commit/149b5cf59cc760fa98c9753f4b4ec12d4b884d9a
-- Before: https://github.com/gorhill/uBlock/tree/917f3620e0c08b722bbd4d400bca2735d9f6975f
+
 
 #### 2014-11-24
 
@@ -85,3 +85,4 @@ Git:
 -  After: https://github.com/gorhill/uBlock/tree/5b79bf353647a4dad9d4968d0f246582744f07bc
 - Commit: https://github.com/gorhill/uBlock/commit/5b79bf353647a4dad9d4968d0f246582744f07bc
 - Before: https://github.com/gorhill/uBlock/tree/96c4e2e2565ffbd7d413ed7721d9610772b03859
+
